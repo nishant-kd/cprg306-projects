@@ -14,7 +14,7 @@ export default function Profile() {
       return(
           <div className='text-center mt-10 mb-5'>
               <p className="text-3xl font-semibold mb-1">Nishant Kumar</p>
-              <p className="text-xl font-semibold">{'<Software Developer/>'}</p>
+              <p className="text-xl font-semibold">{'<Software Developer>'}</p>
           </div>
       );
   };

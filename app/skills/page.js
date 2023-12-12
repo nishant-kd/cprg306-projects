@@ -72,7 +72,7 @@ const Skills = forwardRef((props, ref) => {
                 <div className='mt-20 border bg-gray-900 pb-24 px-24 pt-10 max-w-screen mx-10 border-black border-x-4 rounded-md shadow-lg shadow-black border-x-purple-600'>
                     <div className='flex justify-center items-center mb-20 text-white '>
                         <img src='./imgs/skill.png' className='w-[180px] h-[140px] mr-[30px]'/>
-                        <h2 className=' flex justify-center text-3xl tracking-wide mt-1 mr-[60px] font-semibold'>{'<Skills/>'}</h2>
+                        <h2 className=' flex justify-center text-3xl tracking-wide mt-1 mr-[60px] font-semibold'>{'<Skills>'}</h2>
                     </div>
                     {skills()}
                 </div>
